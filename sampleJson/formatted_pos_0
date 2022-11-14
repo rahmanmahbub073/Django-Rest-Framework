@@ -1,0 +1,41 @@
+[
+    {
+        "dataset_name": "pos_0.png.json",
+        "image_link": "",
+        "annotation_type": "image",
+        "annotation_objects": {
+            "vehicle": {
+                "bbox": [
+                    396,
+                    3,
+                    773,
+                    314
+                ],
+                "presence": 1
+            },
+            "license_plate": {
+                "bbox": [
+                    535,
+                    158,
+                    622,
+                    213
+                ],
+                "presence": 1
+            }
+        },
+        "annotation_attributes": {
+            "vehicle": {
+                "Type": "SUV",
+                "Pose": "Rear",
+                "Model": "UN",
+                "Make": "Lexus",
+                "Color": "Silver"
+            },
+            "license_plate": {
+                "Difficulty Score": "0",
+                "Value": "CA, 7LVS119",
+                "Occlusion": 0
+            }
+        }
+    }
+]

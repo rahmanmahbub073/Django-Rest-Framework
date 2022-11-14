@@ -1,0 +1,31 @@
+[
+    {
+        "dataset_name": "pos_0.png.json",
+        "image_link": "",
+        "annotation_type": "image",
+        "annotation_objects": {
+            "vehicle": {
+                "bbox": [],
+                "presence": 0
+            },
+            "license_plate": {
+                "bbox": [],
+                "presence": 0
+            }
+        },
+        "annotation_attributes": {
+            "vehicle": {
+                "Type": "null",
+                "Pose": "null",
+                "Model": "null",
+                "Make": "null",
+                "Color": "null"
+            },
+            "license_plate": {
+                "Difficulty Score": "null",
+                "Value": "null",
+                "Occlusion": "null"
+            }
+        }
+    }
+]
